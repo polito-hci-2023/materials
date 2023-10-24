@@ -10,6 +10,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
   * [Exercise](./slides/02b-needfinding-exercise.pdf)
   * [Exercise developed together](./slides/02b-needfinding-exercise-done.pdf)
 * [Analyzing](./slides/03-analyzing.pdf)
+  * [Exercise](./slides/03b-analyzing-exercise.pdf)
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
