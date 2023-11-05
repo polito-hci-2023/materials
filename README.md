@@ -12,6 +12,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Analyzing and Synthetizing](./slides/03-analyzing.pdf)
   * [Exercise](./slides/03b-analyzing-exercise.pdf)
 * [Design Theory, Principles and Guidelines](./slides/04-design-principles.pdf)
+* [Intro to Prototyping and Low-fi Prototypes](./slides/05-low-fi-prototypes.pdf)
 
 
 ## Assignments
