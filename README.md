@@ -17,6 +17,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Visual Design](./slides/06-visualdesign.pdf)
 * [Evaluation Overview and Heuristic Evaluation](./slides/07-heuristic-evaluation.pdf)
   * [Exercise on heuristic evaluation](./slides/07b-heuristic-evaluation-exercise.pdf)
+* [Design Patterns](./slides/08-design-patterns.pdf)
 
 
 ## Assignments
