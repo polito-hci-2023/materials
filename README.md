@@ -19,6 +19,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
   * [Exercise on heuristic evaluation](./slides/07b-heuristic-evaluation-exercise.pdf)
 * [Design Patterns](./slides/08-design-patterns.pdf)
 * [Medium Fidelity Prototypes](./slides/09-mid-fi-prototypes.pdf)
+* [High Fidelity Prototypes](./slides/10-hi-fi-prototypes.pdf)
 
 
 ## Assignments
