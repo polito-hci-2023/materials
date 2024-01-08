@@ -22,7 +22,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [High Fidelity Prototypes](./slides/10-hi-fi-prototypes.pdf)
   * [Options for Implementing](./slides/10a-tech-choices.pdf) (discussed in class)
 * [Design for Diversity](./slides/11-designing-diversity.pdf)
-* Usability Testing
+* [Usability Testing](./slides/12-usability-testing.pdf)
 
 
 ## Assignments
